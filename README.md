@@ -20,14 +20,14 @@ Copy and paste these dorks into Google to discover:
 
 ### 🔍 **General Bug Bounty Dorks**
 
-inurl:/bug-bounty "security"
-inurl:/security "bug bounty"
-inurl:/security.txt "bug bounty"
-inurl:/.well-known/security.txt "bug bounty"
-inurl:security.txt intext:"mailto" -github.com -wikipedia.org -portswigger.net -magento
-"submit vulnerability report" | "powered by bugcrowd" | "powered by hackerone"
-inurl:/security ext:txt "contact"
-intext:"security vulnerability" "report"
+1.inurl:/bug-bounty "security"
+2.inurl:/security "bug bounty"
+3.inurl:/security.txt "bug bounty"
+4.inurl:/.well-known/security.txt "bug bounty"
+5.inurl:security.txt intext:"mailto" -github.com -wikipedia.org -portswigger.net -magento
+6."submit vulnerability report" | "powered by bugcrowd" | "powered by hackerone"
+7.inurl:/security ext:txt "contact"
+8.intext:"security vulnerability" "report"
 
 ### 🏆 **Bug Bounty Program & Rewards**
 
