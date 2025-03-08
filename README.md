@@ -20,79 +20,79 @@ Copy and paste these dorks into Google to discover:
 
 ### 🔍 **General Bug Bounty Dorks**
 
-1.inurl:/bug-bounty "security"
-2.inurl:/security "bug bounty"
-3.inurl:/security.txt "bug bounty"
-4.inurl:/.well-known/security.txt "bug bounty"
-5.inurl:security.txt intext:"mailto" -github.com -wikipedia.org -portswigger.net -magento
-6."submit vulnerability report" | "powered by bugcrowd" | "powered by hackerone"
-7.inurl:/security ext:txt "contact"
-8.intext:"security vulnerability" "report"
+1. inurl:/bug-bounty "security"
+2. inurl:/security "bug bounty"
+3. inurl:/security.txt "bug bounty"
+4. inurl:/.well-known/security.txt "bug bounty"
+5. inurl:security.txt intext:"mailto" -github.com -wikipedia.org -portswigger.net -magento
+6. submit vulnerability report" | "powered by bugcrowd" | "powered by hackerone"
+7. inurl:/security ext:txt "contact"
+8. intext:"security vulnerability" "report"
 
 ### 🏆 **Bug Bounty Program & Rewards**
 
-intext:"responsible disclosure" "bounty" "reward"
-intext:"bug bounty" inurl:/report
-intext:"we offer a bounty"
-intext:"security vulnerability" "eligible for reward"
-"powered by bugcrowd" -site:bugcrowd.com
-"powered by hackerone" -site:hackerone.com
-intext:"submit vulnerability" | "security vulnerability report" | "bug bounty reward"
-site:*.edu intext:"security report reward"
-site:security.*.* inurl: bounty
+1. intext:"responsible disclosure" "bounty" "reward"
+2. intext:"bug bounty" inurl:/report
+3. intext:"we offer a bounty"
+4. intext:"security vulnerability" "eligible for reward"
+5. "powered by bugcrowd" -site:bugcrowd.com
+6. "powered by hackerone" -site:hackerone.com
+7. intext:"submit vulnerability" | "security vulnerability report" | "bug bounty reward"
+8. site:*.edu intext:"security report reward"
+9. site:security.*.* inurl: bounty
 
 ### 🌍 **Country-Specific Bug Bounty Programs**
 
-site:*.br responsible disclosure bounty
-site:*.au responsible disclosure bounty
-site:*.uk responsible disclosure bounty
-site:*.cn responsible disclosure bounty
-site:*.nl intext:security report reward
-site:*.eu intext:security report reward
-site:*.de inurl:bug inurl:bounty
+1. site:*.br responsible disclosure bounty
+2. site:*.au responsible disclosure bounty
+3. site:*.uk responsible disclosure bounty
+4. site:*.cn responsible disclosure bounty
+5. site:*.nl intext:security report reward
+6. site:*.eu intext:security report reward
+7. site:*.de inurl:bug inurl:bounty
 
 ### 🎯 **Security Policy & Disclosure Pages**
 
-inurl:security-policy.txt ext:txt
-inurl:/security ext:txt "contact"
-inurl:/responsible-disclosure/ reward
-inurl:/.well-known/security.txt ext:txt -hackerone -bugcrowd -synack -openbugbounty
-inurl:vulnerability-disclosure-policy reward
-inurl:security-report ext:txt
-intext:"vulnerability reporting policy"
-"If you believe you've found a security vulnerability"
-inurl:responsible-disclosure-policy
-inurl:/trust/report-a-vulnerability
+1. inurl:security-policy.txt ext:txt
+2. inurl:/security ext:txt "contact"
+3. inurl:/responsible-disclosure/ reward
+4. inurl:/.well-known/security.txt ext:txt -hackerone -bugcrowd -synack -openbugbounty
+5. inurl:vulnerability-disclosure-policy reward
+6. inurl:security-report ext:txt
+7. intext:"vulnerability reporting policy"
+8. "If you believe you've found a security vulnerability"
+9. inurl:responsible-disclosure-policy
+10. inurl:/trust/report-a-vulnerability
 
 ### 🔎 **CMS & Open Source Bug Bounties**
 
-"cms" bug bounty
-"open-source security bounty"
-inurl:/.git intext:security vulnerability
-inurl:/wp-content/plugins/ intext:vulnerability report
-inurl:/modules/security-report/
+1. "cms" bug bounty
+2. "open-source security bounty"
+3. inurl:/.git intext:security vulnerability
+4. inurl:/wp-content/plugins/ intext:vulnerability report
+5. inurl:/modules/security-report/
 
 ### 💰 **Crypto & Financial Bug Bounty**
 
-"bug bounty" intext:"BTC" | "ETH" | "USDT" | "crypto" | "reward"
-intext:"cryptocurrency" "bug bounty"
-site:*.exchange intext:security vulnerability report
-inurl:security-report intext:crypto | blockchain | token
+1. "bug bounty" intext:"BTC" | "ETH" | "USDT" | "crypto" | "reward"
+2. intext:"cryptocurrency" "bug bounty"
+3. site:*.exchange intext:security vulnerability report
+4. inurl:security-report intext:crypto | blockchain | token
 
 ### 🏦 **Government & Corporate Responsible Disclosure**
 
-site:*.gov.* "responsible disclosure"
-site:*.mil.* "security vulnerability report"
-site:*.bank "security vulnerability report"
-site:*.finance "bug bounty"
-site:*.edu intext:security report vulnerability
+1. site:*.gov.* "responsible disclosure"
+2. site:*.mil.* "security vulnerability report"
+3. site:*.bank "security vulnerability report"
+4. site:*.finance "bug bounty"
+5. site:*.edu intext:security report vulnerability
 
 ### 💳 **E-commerce & Payment Platforms**
 
-site:*.shop intext:"bug bounty"
-site:*.store intext:"responsible disclosure"
-site:*.pay intext:"security vulnerability report"
-intext:"if you find a vulnerability" site:*.bank
+1. site:*.shop intext:"bug bounty"
+2. site:*.store intext:"responsible disclosure"
+3. site:*.pay intext:"security vulnerability report"
+4. intext:"if you find a vulnerability" site:*.bank
 
 
 ---
