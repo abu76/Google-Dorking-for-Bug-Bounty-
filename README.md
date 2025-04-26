@@ -94,7 +94,8 @@ Copy and paste these dorks into Google to discover:
 3. site:*.pay intext:"security vulnerability report"
 4. intext:"if you find a vulnerability" site:*.bank
 
-
+### 💳 **publicly exposed documents**
+1. site:target.com ext:doc | ext:docx | ext:pdf | ext:odt | ext:rtf | ext:ppt | ext:pptx | ext:pps | ext:csv
 ---
 
 ## 🛠️ **How to Stay Updated?**  
